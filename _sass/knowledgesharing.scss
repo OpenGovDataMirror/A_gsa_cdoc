@@ -1,0 +1,95 @@
+/****************************styling for policy catalog******************************/
+.no-style {
+  text-decoration: none;
+  color: black;
+}
+.anchor-fill{
+  width: inherit;
+  display: block;
+  height: inherit;
+}
+
+.grid-spacing {
+  padding: 0;
+  margin-bottom: 10px;
+  padding: 0px 10px 0px 0px;
+
+}
+
+.filters {
+
+}
+
+.filters ul {
+
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.filters li {
+  margin: 0 2px 2px 0;
+}
+
+.big {
+  font-size: 20px;
+}
+
+.filters a {
+  display: block;
+  padding: 1em;
+  font-size: 80%;
+
+  color: #000;
+  text-decoration: none;
+
+}
+
+.text-container {
+  overflow:hidden;
+}
+
+.filters a:hover {
+  outline: 2px solid hsl(0, 0%, 50%);
+}
+
+a.checked {
+
+  color: white;
+}
+
+.knowledge-border {
+  border-top: solid 4px #f2938c;
+}
+
+.priority-border {
+  border-top: solid 4px #97d4ea
+}
+
+
+.website-border {
+  border-top: solid 4px #07648d;
+}
+
+.guidance-border {
+  border-top: solid 4px #07648d;
+}
+
+.report-border {
+  border-top: solid 4px #07648d;
+}
+
+.presentation-border {
+  border-top: solid 4px #07648d;
+}
+
+.title-resources {
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 500; }
+
+.members-hover:hover{
+  -webkit-box-shadow: 1px -1px 11px 4px rgba(0,0,0,0.47);
+  -moz-box-shadow: 1px -1px 11px 4px rgba(0,0,0,0.47);
+  box-shadow: 1px -1px 11px 4px rgba(0,0,0,0.47);
+}
